@@ -11,7 +11,7 @@ namespace BEPUphysics.BroadPhaseEntries
     ///</summary>
     public abstract class StaticCollidable : Collidable, ISpaceObject, IMaterialOwner, IDeferredEventCreatorOwner
     {
-
+        
 
         ///<summary>
         /// Performs common initialization.

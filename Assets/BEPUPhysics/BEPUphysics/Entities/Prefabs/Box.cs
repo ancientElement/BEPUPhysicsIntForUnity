@@ -135,8 +135,5 @@ namespace BEPUphysics.Entities.Prefabs
             get { return CollisionInformation.Shape.Length; }
             set { CollisionInformation.Shape.Length = value; }
         }
-
-
-
     }
 }
